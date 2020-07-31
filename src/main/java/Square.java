@@ -6,7 +6,6 @@ public class Square extends Figures {
         this.side = side;
     }
 
-
     public double getArea() {
         return side * side;
     }
